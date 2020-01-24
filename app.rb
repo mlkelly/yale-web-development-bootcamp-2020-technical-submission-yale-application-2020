@@ -1,4 +1,3 @@
-require_relative './test'
 AVERAGE_HEIGHT_IN_INCHES = 67
 
 # Your Code Here!
