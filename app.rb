@@ -6,7 +6,7 @@ name = "Maura Kelly"
 age = "20"
 favorite_food = "Tamales"
 height_in_inches = "62"
-height_message = 
+height_message = height_in_inches > AVERAGE_HEIGHT_IN_INCHES
 
 ## Do not modify below this line!
 
